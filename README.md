@@ -1,3 +1,6 @@
+
+<img width="1190" height="847" alt="image" src="https://github.com/user-attachments/assets/e85ffb5c-4c4a-46ba-94d9-73dca9c07b35" />
+
 # 🎓 Smart Campus ERP System - SIH 2024
 
 > **Built with AI Assistance**: This project was developed with the help of Amazon Q Developer AI, leveraging AI-powered code generation, debugging, and optimization to accelerate development and ensure best practices.
@@ -16,6 +19,7 @@ A comprehensive college management system built for Smart India Hackathon 2024 w
 - **Multi-Role Dashboards** - Student, Faculty, Admin, and Parent portals
 - **Fee Management** - Academic, hostel, and transport fee payment with history tracking
 - **Attendance System** - Smart attendance with face recognition, QR codes, and geo-fencing
+[27964d67-c463-4baf-90a1-2e6d6d3fd570.pdf](https://github.com/user-attachments/files/26372315/27964d67-c463-4baf-90a1-2e6d6d3fd570.pdf)
 
 ### 🤖 AI & Advanced Features
 - **AI Analytics Dashboard** - Predictive insights and performance analysis
